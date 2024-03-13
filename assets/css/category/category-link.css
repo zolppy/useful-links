@@ -1,0 +1,8 @@
+.category__link {
+  color: darkcyan;
+}
+
+.category__link:hover {
+  text-decoration: underline;
+  text-decoration-color: darkcyan;
+}
