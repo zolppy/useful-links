@@ -1,7 +1,7 @@
 .footer {
-  background-color: gray;
-  font-size: .8rem;
+  background-color: indigo;
   padding: 1em;
   display: flex;
-  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
 }
