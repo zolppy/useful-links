@@ -1,4 +1,8 @@
 .header {
   background-color: indigo;
   padding: 1em;
+  width: 100%;
+  position: fixed;
+  left: 50%;
+  transform: translate(-50%);
 }

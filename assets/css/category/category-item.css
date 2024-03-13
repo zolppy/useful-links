@@ -1,5 +1,9 @@
 .category__item {
   list-style-position: inside;
-  list-style-type: symbols(cyclic "\1f449");
   margin-left: 1em;
+}
+
+.category__item::before {
+  content: "👉";
+  margin-right: 5px;
 }
