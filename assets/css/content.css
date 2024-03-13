@@ -1,8 +1,7 @@
 .content {
   background-color: black;
-  min-height: calc(100svh - 2em - 34px - 36px);
-  padding: 2.5%;
+  padding: 1em;
   display: flex;
   flex-direction: column;
-  gap: 10px;
+  gap: 2em;
 }
