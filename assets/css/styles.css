@@ -3,6 +3,8 @@
 @import url("./header/header.css");
 @import url("./header/header-title.css");
 @import url("./content.css");
+@import url("./info/info-total.css");
+@import url("./info/info-total-value.css");
 @import url("./category/category.css");
 @import url("./category/category-list.css");
 @import url("./category/category-item.css");
