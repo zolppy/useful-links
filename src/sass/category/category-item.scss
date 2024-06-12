@@ -1,0 +1,9 @@
+.category__item {
+  list-style-position: inside;
+  margin-left: 1em;
+
+  &::before {
+    content: "👉";
+    margin-right: 5px;
+  }
+}
